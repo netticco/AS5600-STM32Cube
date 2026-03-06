@@ -1,6 +1,6 @@
 # Cntrolador de RPM de um motor DC escvado (STM32F411 + AS5600)
 
-Este projeto implementa um tacômetro digital para motores DC utilizando o microcontrolador **STM32F411 (Blackpill)** e o sensor magnético **AS5600**. O sistema é projetado para medir rotações na faixa de **400 a 4000 RPM** com alta resolução temporal.
+Este projeto implementa um sensor/controlador de velocidade para motores DC utilizando o microcontrolador **STM32F411 (Blackpill)** e o sensor magnético **AS5600**. O sistema é projetado para medir rotações na faixa de **400 a 4000 RPM** com alta resolução temporal.
 
 ##  Especificações de Hardware
 
