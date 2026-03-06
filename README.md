@@ -53,8 +53,9 @@ Durante transições bruscas de velocidade ou mudanças de frequência no gerado
 ---
 
 ##  Roadmap
-1. [ ] Acionamento do motor via Half Bridge
-   
-2. [ ] Controle de malha fechada utilizando algoritmo **PID**.
 
+1. [X] Definição dos pinos utlizados.
+2. [X] Leitura da saída analógica + Plot via Serial do RPM.
+3. [ ] Acionamento do motor via Half Bridge.
+4. [ ] Controle de malha fechada utilizando algoritmo **PID**.
 3. [ ] Ajuste dinâmico de PWM via potenciômetro (ADC).
